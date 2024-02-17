@@ -1,6 +1,6 @@
 # Nombre del Proyecto: 
 
-El proyecto elaborado es una tienda ecommerce de venta de libros digitales llamado EbookTandil, desarrollado para el curso de React en Coderhouse. En el mismo se muestra un listado de categorías de libros que puede eligir el cliente y comprar en forma online. Los libros se almacenan en firebase donde se actualiza su stock y precio, como así también las órdenes de compra que nos permiten tener todos los datos del comprador. 
+El proyecto elaborado es una tienda ecommerce de venta de libros digitales llamado "EBOOKTANDIL", desarrollado para el curso de React en Coderhouse. En el mismo se muestra un listado de categorías de libros que puede eligir el cliente y comprar en forma online. Los libros se almacenan en firebase donde se actualiza su stock y precio, como así también las órdenes de compra que nos permiten tener todos los datos del comprador. 
 
 ## Tecnología Utilizada:
 
