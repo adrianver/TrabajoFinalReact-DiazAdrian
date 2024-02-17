@@ -1,0 +1,20 @@
+.container.mt-5 {
+background-color: rgb(228, 226, 226);
+
+}
+
+.descripcion {
+  font-style: italic;
+  color: rgb(46, 46, 48);
+}
+  
+.img-fluid {
+width: 450px;
+border: black 2px solid;
+}
+
+.img-fluid:hover {
+width: 500px;
+height: auto ;
+    
+}

@@ -1,0 +1,16 @@
+.carrito {
+width: 70px;
+border-radius: 35%;
+border: rgb(225, 65, 91) 5px solid;
+text-decoration: none;
+}  
+
+.solicitud {
+color: white;
+text-shadow: 5px 5px 5px rgb(241, 232, 232);
+}
+
+.carrito:hover {
+    width: 90px;
+    height: 100px;
+}

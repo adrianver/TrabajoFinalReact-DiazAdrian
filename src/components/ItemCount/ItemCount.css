@@ -1,0 +1,11 @@
+
+.contador-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .contador-container button {
+    margin: 20px; 
+  }
+  

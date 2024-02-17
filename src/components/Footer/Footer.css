@@ -1,0 +1,115 @@
+
+footer {
+    background:#202020;
+    width: 100%;
+    margin-top: 225px;
+    
+    }
+    
+    .footerInformacion {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    }
+    
+    .informacion h1, .redesSociales h1, .contacto h1 {
+    font-size:1.5rem;
+    color: #ec6161;  
+  }
+    
+    .containerBody {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    }
+    
+    .informacion {
+    max-width: 400px;
+    margin-right: 20px;
+    }
+    
+    .informacion p {
+    font-size: 0.8rem;
+    color: #c7c7c7;  
+    margin-top: 20px;
+    font-weight: bolder;
+    text-align: justify;
+    }
+    
+    .consultas p {
+      
+      text-transform: none;
+    }
+
+
+    .redesSociales {
+    max-width: 400px;
+    }
+    
+    .redes {
+    margin-top: 20px;
+    display: flex;
+    }
+    
+    .redes img {
+    width: 20px;                                            
+    height: 20px;
+    }
+    
+    .redes label {
+    font-size: 0.80rem;
+    font-weight: bolder;
+    color: #c7c7c7;
+    margin-top: 10px;
+    margin-left: 20px;  
+    }
+    
+    .contacto {
+    max-width: 400px;
+    }
+    
+    .contactos {
+    margin-top: 20px;
+    display: flex;
+    }
+    
+    
+    .contacto img {
+    width: 20px;
+    height: 20px;
+    }
+    
+    .contactos label {
+    font-size: 0.80rem;
+    font-weight: bolder;
+    color: #c7c7c7;
+    margin-left: 20px;
+    max-width: 140px;
+    margin-top: 10px;
+    }    
+    
+    .containerFooter {
+    width: 100%;
+    background: #101010;
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    }
+    
+    .derechos p {
+    font-size: 0.80rem;
+    color: #c7c7c7;
+    font-weight: bolder;
+    }
+    
+    @media screen and (max-width: 900px) {
+    .containerBody {
+    flex-wrap: wrap;  
+    }  
+    }
+    @media screen and (max-width: 430px) {
+    .redesSociales {
+    padding-right: 15px;  
+    }
+    }
+    
